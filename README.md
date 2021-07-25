@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HWmanchi
-- 👀 I’m interested in technical and engineer things.
+- 👀 I’m interested in technical and science. Especially, it's hareware and software architecture, and semiconductor.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on technical and science part.
-- 📫 How to reach me by e-mail: joanna
+- 📫 How to reach me by e-mail: joanna53330@gmail.com
 
 <!---
 HWmanchi/HWmanchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

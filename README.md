@@ -7,6 +7,7 @@
 <!---
 HWmanchi/HWmanchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->My Linkedin ID: 黃曼琦, Linkedin: https://tw.linkedin.com
+--->My Linkedin ID: 黃曼琦
+Linkedin: https://tw.linkedin.com
 
 
